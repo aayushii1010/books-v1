@@ -1,4 +1,4 @@
-# Booksy 📚
+# Booksey 📚
 An entry-level Python application designed to give users a "surprise book recommendation" based on their current comfort mood or vibe.
 
 ## Tech Used
