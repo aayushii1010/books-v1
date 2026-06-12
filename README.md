@@ -1,2 +1,10 @@
-# books-v1
-Booksy is a Python-based book recommendation and management platform that helps users discover books based on their interests and organize their reading collections. It offers personalized recommendations, genre-based exploration, and a user-friendly interface, making book discovery simple, engaging, and accessible.
+# Booksy 📚
+An entry-level Python application designed to give users a "surprise book recommendation" based on their current comfort mood or vibe.
+
+## Tech Used
+* Python 3
+* Built-in `random` module for surprise selection logic
+
+## How to Run
+1. Copy the code from `main.py`.
+2. Paste it into any online Python compiler or IDE and hit Run!
